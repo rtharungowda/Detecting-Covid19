@@ -9,6 +9,6 @@ Recommanded to use [Google Colab](https://colab.research.google.com/notebooks/in
 ## Importing notebook into Colab
 - Open colab from above provided link.
 - A pop window opens containing several tabs, select the one which says Github.
-- Enter the repo url https://github.com/rtharungowda/Covid19-xray-classifier and click on search.
-- The notebook appears under the results select and run.
-- The notebook cannot be modified hence please create a copy of it in your drive.
+- Enter the repo url https://github.com/rtharungowda/Detecting-Covid19 and click on search.
+- The notebook will appear under the results select and run.
+- The notebook cannot be modified as it is, hence please create a copy of it in your drive.
